@@ -1,0 +1,3 @@
+[submodule "themes/bootstrapious"]
+	path = themes/bootstrapious
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
